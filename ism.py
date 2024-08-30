@@ -1,0 +1,1 @@
+print("Muxtorxon G'furov")
